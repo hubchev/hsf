@@ -1,0 +1,151 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=latex 2025.5.5)  10 JUL 2025 12:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**apa7.ins
+(./apa7.ins
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(/usr/share/texlive/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count185
+\emptyLines=\count186
+\processedLines=\count187
+\commentsRemoved=\count188
+\commentsPassed=\count189
+\codeLinesPassed=\count190
+\TotalprocessedLines=\count191
+\TotalcommentsRemoved=\count192
+\TotalcommentsPassed=\count193
+\TotalcodeLinesPassed=\count194
+\NumberOfFiles=\count195
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count196
+\off@1=\count197
+\off@2=\count198
+\off@3=\count199
+\off@4=\count266
+\off@5=\count267
+\off@6=\count268
+\off@7=\count269
+\off@8=\count270
+\off@9=\count271
+\off@10=\count272
+\off@11=\count273
+\off@12=\count274
+\off@13=\count275
+\off@14=\count276
+\off@15=\count277
+\@maxfiles=\count278
+\@maxoutfiles=\count279
+
+Utility: `docstrip' v2.6b <2022-09-03>
+English documentation    <2022-09-03>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./apa7.cls 
+\openout0 = `./apa7.cls'.
+
+
+Processing file apa7.dtx (class) -> apa7.cls
+Lines  processed: 3892
+Comments removed: 1333
+Comments  passed: 46
+Codelines passed: 2463
+
+
+Generating file(s) ././config/APA7american.txt ././config/APA7british.txt ././c
+onfig/APA7dutch.txt ././config/APA7english.txt ././config/APA7french.txt ././co
+nfig/APA7german.txt ././config/APA7ngerman.txt ././config/APA7greek.txt ././con
+fig/APA7czech.txt ././config/APA7turkish.txt ././config/APA7spanish.txt ././con
+fig/APA7hungarian.txt ././config/APA7endfloat.cfg 
+\openout0 = `././config/APA7american.txt'.
+
+\openout1 = `././config/APA7british.txt'.
+
+\openout2 = `././config/APA7dutch.txt'.
+
+\openout3 = `././config/APA7english.txt'.
+
+\openout4 = `././config/APA7french.txt'.
+
+\openout5 = `././config/APA7german.txt'.
+
+\openout6 = `././config/APA7ngerman.txt'.
+
+\openout7 = `././config/APA7greek.txt'.
+
+\openout8 = `././config/APA7czech.txt'.
+
+\openout9 = `././config/APA7turkish.txt'.
+
+\openout10 = `././config/APA7spanish.txt'.
+
+\openout11 = `././config/APA7hungarian.txt'.
+
+\openout12 = `././config/APA7endfloat.cfg'.
+
+
+Processing file apa7.dtx (american) -> ./config/APA7american.txt
+                         (british) -> ./config/APA7british.txt
+                         (dutch) -> ./config/APA7dutch.txt
+                         (english) -> ./config/APA7english.txt
+                         (french) -> ./config/APA7french.txt
+                         (german) -> ./config/APA7german.txt
+                         (ngerman) -> ./config/APA7ngerman.txt
+                         (greek) -> ./config/APA7greek.txt
+                         (czech) -> ./config/APA7czech.txt
+                         (turkish) -> ./config/APA7turkish.txt
+                         (spanish) -> ./config/APA7spanish.txt
+                         (hungarian) -> ./config/APA7hungarian.txt
+                         (APAendfloat) -> ./config/APA7endfloat.cfg
+Lines  processed: 3892
+Comments removed: 1333
+Comments  passed: 46
+Codelines passed: 2463
+
+
+Generating file(s) ././samples/bibliography.bib ././samples/shortsample.tex ./.
+/samples/longsample.tex 
+\openout0 = `././samples/bibliography.bib'.
+
+\openout1 = `././samples/shortsample.tex'.
+
+\openout2 = `././samples/longsample.tex'.
+
+
+Processing file apa7.dtx (bibliography) -> ./samples/bibliography.bib
+                         (shortsample) -> ./samples/shortsample.tex
+                         (longsample) -> ./samples/longsample.tex
+Lines  processed: 3892
+Comments removed: 1333
+Comments  passed: 46
+Codelines passed: 2463
+
+Overall statistics:
+Files  processed: 3
+Lines  processed: 11676
+Comments removed: 3999
+Comments  passed: 138
+Codelines passed: 7389
+ ) 
+Here is how much of TeX's memory you used:
+ 479 strings out of 476092
+ 6533 string characters out of 5794108
+ 1849327 words of memory out of 5000000
+ 20938 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,15p,203b,233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
